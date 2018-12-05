@@ -1,0 +1,20 @@
+{
+  name: "Solarized Dark",
+  constants: {
+    mainTintColor: "#fffdff",
+    mainBackgroundColor: "#171925",
+    mainTextColor: "#bbbdcb",
+    navBarColor: "#171925",
+    mainDimColor: "#363b53",
+    navBarTextColor: "#fffdff",
+    plainCellBorderColor: "#1d1f2f",
+    selectedBackgroundColor: "#292b3a",
+    composeBorderColor: "#1b1b1b"
+  },
+
+  rules: {
+
+  },
+
+  statusBar: "light-content"
+}
